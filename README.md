@@ -166,7 +166,7 @@ You are free to use, modify, and distribute this code with attribution.
 
 ## Author
 
-**Cintia Araujo (Kaoru)**  
+**Cintia Araujo**  
 Faculty, UESPI — Campus Corrente  
 Doctoral Researcher, Programa de Pós-Graduação em Zootecnia, UNIVASF  
 Visiting Researcher, University of Illinois at Urbana-Champaign (UIUC)
